@@ -1,0 +1,17 @@
+{
+  "name": "civ-mod-installer",
+  "version": "0.1.0",
+  "description": "Installs mods for Civ V that have been subscribed to in Steam.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Webb",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "commander": "^2.6.0",
+    "glob": "^4.4.1",
+    "node-7z": "^0.3.0"
+  }
+}
